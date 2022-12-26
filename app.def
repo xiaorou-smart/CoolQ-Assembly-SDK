@@ -1,0 +1,24 @@
+EXPORTS
+	AppInfo
+	Initialize
+	_eventStartup
+	_eventExit
+	_eventEnable
+	_eventDisable
+	_eventPrivateMsg
+	_eventGroupMsg
+	_eventDiscussMsg
+	_eventGroupUpload
+	_eventSystem_GroupAdmin
+	_eventSystem_GroupMemberDecrease
+	_eventSystem_GroupMemberIncrease
+	_eventSystem_GroupBan
+	_eventFriend_Add
+	_eventRequest_AddFriend
+	_eventRequest_AddGroup
+	_menuA
+	_menuB
+	_retrieveGroupList
+	_retrieveGroupSingleMember
+	_retrieveGroupMemberList
+	
